@@ -1,0 +1,6 @@
+record_id,title,category,price_gbp,rating,source_url
+SKU-201,The Hobbit,Fantasy,8.99,4.5,https://local.example/books/201
+SKU-202,Pride and Prejudice,Fiction,7.5,4.0,https://local.example/books/202
+SKU-203,A Brief History of Time,Science,9.25,,https://local.example/books/203
+SKU-204,The Left Hand of Darkness,,8.25,,https://local.example/books/204
+SKU-205,Around the World in Eighty Days,Travel,,3.5,https://local.example/books/205
